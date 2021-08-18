@@ -1,9 +1,4 @@
-package etmo.metaheuristics.matbml2;
-
-import org.nd4j.linalg.api.ndarray.INDArray;
-import org.nd4j.linalg.cpu.nativecpu.NDArray;
-import org.nd4j.linalg.dimensionalityreduction.PCA;
-import org.nd4j.linalg.ops.transforms.Transforms;
+package etmo.metaheuristics.mateaaat;
 
 class WassersteinDistance {
     public static double getWD(double[][] p1, double[][] p2){
